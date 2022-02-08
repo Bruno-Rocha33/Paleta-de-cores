@@ -5,8 +5,6 @@
 
     }
 
-
-
     main {
       width: 1000px;
       margin: 0 auto;
@@ -42,7 +40,6 @@
       text-align: center;
       font-family: 'Nunito', sans-serif;
       color: #000000;
-
     }
 
 
@@ -74,26 +71,27 @@
     /*Input Multivisi*/
 
     .multivisi_cor--1 {
-      background-color: #003CE5;
+      background-color: #1E90FF;
+      color: white;
     }
 
     .multivisi_cor--2 {
-      background-color: #2CEAFF;
-      color: #000;
+      background-color: #003CE5;
+      color: white;
     }
 
     .multivisi_cor--3 {
-      background-color: #F9F9F9;
+      background-color: #00FFFF;
       color: #000;
     }
 
     .multivisi_cor--4 {
-      background-color: #003ECB;
+      background-color: #F1F2F6;
+      color: #000;
     }
 
     .multivisi_cor--5 {
-      background-color: #0033C4;
-      color: black;
+      background-color: #2C3E50;
       color: white;
     }
 

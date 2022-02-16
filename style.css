@@ -149,34 +149,22 @@ input {
 /*Input Visuteccrafts*/
 
 .visuteccrafts_cor--1 {
-  background-color: #A4B4DC;
-  color: #000;
-
+  background-color: #6B46C1;
 }
 
 .visuteccrafts_cor--2 {
-  background-color: #f7cac9;
+  background-color: #F8F8FF;
   color: #000;
 }
 
 .visuteccrafts_cor--3 {
-  background-color: #ffffff;
-  border: 1px solid #c0c0c0;
-  color: #616161;
+  background-color: #93A9D1;
+  color: #000;
 }
 
 .visuteccrafts_cor--4 {
-  background-color: #616161;
-}
-
-.visuteccrafts_cor--5 {
-  background-color: #181C51;
-  color: white;
-}
-
-.visuteccrafts_cor--6 {
-  background-color: #65409A;
-  color: white;
+  background-color: #F7CACA;
+  color: #000;
 }
 
 

@@ -1,4 +1,13 @@
-/* Place your JavaScript in this file */
+
+function exibirMensagemSucesso() {
+  Swal.fire({
+    position: 'top-end',
+    icon: 'success',
+    title: 'Copiado com sucesso!',
+    showConfirmButton: false,
+    timer: 1300
+  })
+}
 
 
 function multivisi_cor1() {
@@ -15,6 +24,7 @@ function multivisi_cor1() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 function Multivisi_cor2() {
@@ -31,6 +41,7 @@ function Multivisi_cor2() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -49,6 +60,7 @@ function Multivisi_cor3() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -67,6 +79,7 @@ function Multivisi_cor4() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -85,6 +98,7 @@ function Multivisi_cor5() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -102,6 +116,7 @@ function sorvetec_cor1() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 function sorvetec_cor2() {
@@ -118,6 +133,7 @@ function sorvetec_cor2() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -136,6 +152,7 @@ function sorvetec_cor3() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -154,6 +171,7 @@ function sorvetec_cor4() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 function sorvetec_cor5() {
@@ -170,6 +188,7 @@ function sorvetec_cor5() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -188,6 +207,7 @@ function brutatec_cor1() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -206,6 +226,7 @@ function brutatec_cor2() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -224,6 +245,7 @@ function brutatec_cor3() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -242,6 +264,7 @@ function brutatec_cor4() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -260,6 +283,7 @@ function brutatec_cor5() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -279,6 +303,7 @@ function visuteccrafts_cor1() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -297,6 +322,7 @@ function visuteccrafts_cor2() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -315,6 +341,7 @@ function visuteccrafts_cor3() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -333,6 +360,7 @@ function visuteccrafts_cor4() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -351,6 +379,7 @@ function visutec_cor1() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -369,6 +398,7 @@ function visutec_cor2() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -387,6 +417,7 @@ function visutec_cor3() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 
@@ -405,6 +436,7 @@ function visutec_cor4() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 function faciltec_cor1() {
@@ -421,6 +453,7 @@ function faciltec_cor1() {
 
   botao_copiar.innerHTML = "Copiado!";
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 function faciltec_cor2() {
@@ -437,6 +470,7 @@ function faciltec_cor2() {
 
   botao_copiar.innerHTML = "Copiado!";
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 function faciltec_cor3() {
@@ -453,6 +487,7 @@ function faciltec_cor3() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 function faciltec_cor4() {
@@ -469,6 +504,7 @@ function faciltec_cor4() {
 
   botao_copiar.innerHTML = "Copiado!"
   botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
 }
 
 

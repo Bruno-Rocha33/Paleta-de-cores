@@ -125,23 +125,28 @@ input {
 }
 
 .sorvetec_cor--2 {
-  background-color: #f29bb2;
+  background-color: #F280AA;
   color: #000;
 }
 
 .sorvetec_cor--3 {
-  background-color: #f280aa;
+  background-color: #FFE5D0;
   color: #000;
 }
 
 .sorvetec_cor--4 {
-  background-color: #fff8f0;
+  background-color: #FFF8F0;
   color: #000;
 }
 
 .sorvetec_cor--5 {
-  background-color: #ffc048;
+  background-color: #FFC048;
   color: #000;
+}
+
+.sorvetec_cor--6 {
+  background-color: #46474B;
+  color: #fff;
 }
 
 /*Input Brutatec*/

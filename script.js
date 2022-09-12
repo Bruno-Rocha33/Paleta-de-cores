@@ -191,6 +191,23 @@ function sorvetec_cor5() {
   exibirMensagemSucesso() 
 }
 
+function sorvetec_cor6() {
+  /* Get the text field */
+  var copyText = document.getElementById("sorvetec_cor6");
+
+  /* Select the text field */
+  copyText.focus();
+
+  /* Copy the text inside the text field */
+  navigator.clipboard.writeText(copyText.value);
+
+  var botao_copiar = document.getElementById("s_cor6_copiar")
+
+  botao_copiar.innerHTML = "Copiado!"
+  botao_copiar.style.color = "green";
+  exibirMensagemSucesso() 
+}
+
 
 
 function brutatec_cor1() {
